@@ -1,0 +1,17 @@
+p{
+    color: deepskyblue;
+}
+
+h1{
+    color:#56a556;
+}
+
+label{
+    background-color: blue;
+    color:white;
+    border: 10px solid black;
+}
+
+body{
+    background-color: bisque;
+}
